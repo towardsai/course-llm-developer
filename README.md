@@ -1,1 +1,1 @@
-# course-llm-developer-thinkific
+# course-llm-developer
